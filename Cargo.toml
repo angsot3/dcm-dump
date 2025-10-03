@@ -7,7 +7,7 @@ license = "MIT OR Apache-2.0"
 repository = "https://github.com/angsot3/dcm-dump"
 readme = "README.md"
 keywords = ["dicom", "dump", "raw", "medical"]
-categories = ["command-line-utilities", "dicom"]
+categories = ["command-line-utilities", "science"]
 
 
 [dependencies]
