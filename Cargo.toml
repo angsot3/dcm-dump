@@ -1,6 +1,6 @@
 [package]
 name = "dcm-dump"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A minimal Rust crate + CLI to dump DICOM tags byte-by-byte"
 license = "MIT OR Apache-2.0"
